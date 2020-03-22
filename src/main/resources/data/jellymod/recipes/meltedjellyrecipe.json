@@ -1,0 +1,11 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "jellymod:jelly"
+  },
+  "result": {
+    "item": "jellymod:meltedjelly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "jellymod:jelly"
+    },
+    "1": {
+      "item": "jellymod:jelly"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "jellymod:sword",
+    "count": 1
+  }
+}

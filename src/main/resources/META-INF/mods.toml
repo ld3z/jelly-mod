@@ -2,14 +2,14 @@ modLoader="javafml"
 loaderVersion="[28,)"
 
 [[mods]]
-modId="jelly_mod"
+modId="jellymod"
 version="5.0"
 displayName="Jelly Mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="Ldezian, MCreator"
 
-[[dependencies.jelly_mod]]
+[[dependencies.jellymod]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.14.4]"

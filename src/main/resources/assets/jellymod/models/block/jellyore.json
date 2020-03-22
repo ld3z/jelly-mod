@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jellymod:blocks/orejelly",
+    "up": "jellymod:blocks/orejelly",
+    "north": "jellymod:blocks/orejelly",
+    "east": "jellymod:blocks/orejelly",
+    "south": "jellymod:blocks/orejelly",
+    "west": "jellymod:blocks/orejelly",
+    "particle": "jellymod:blocks/orejelly"
+  }
+}

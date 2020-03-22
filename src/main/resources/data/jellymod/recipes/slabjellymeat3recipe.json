@@ -1,0 +1,22 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "jellymod:jellymeat"
+    },
+    "1": {
+      "item": "jellymod:jellymeat"
+    },
+    "2": {
+      "item": "jellymod:jellymeat"
+    }
+  },
+  "result": {
+    "item": "jellymod:jellymeatslab",
+    "count": 1
+  }
+}

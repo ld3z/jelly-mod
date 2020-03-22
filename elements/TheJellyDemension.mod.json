@@ -38,7 +38,7 @@
       "value": "Blocks.GRASS"
     },
     "secondaryFillerBlock": {
-      "value": "Blocks.DIAMOND_ORE"
+      "value": "CUSTOM:JellyOre"
     },
     "tertiaryFillerBlock": {
       "value": "Blocks.BRICK_BLOCK"
@@ -57,6 +57,9 @@
     "doesWaterVaporize": false,
     "sleepResult": "ALLOW",
     "hasSkyLight": false,
-    "imitateOverworldBehaviour": false
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jellymod:jelly"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "jellymod:jellybread",
+    "count": 1
+  }
+}

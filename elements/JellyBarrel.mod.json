@@ -45,6 +45,10 @@
     "tickRate": 10,
     "isReplaceable": false,
     "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
     "isNotColidable": false,
     "soundOnStep": {
       "value": "WOOD"

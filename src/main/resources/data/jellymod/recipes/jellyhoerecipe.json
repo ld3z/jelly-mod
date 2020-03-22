@@ -1,0 +1,22 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jellymod:jelly"
+    },
+    {
+      "item": "jellymod:jelly"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "jellymod:jellyhoe",
+    "count": 1
+  }
+}

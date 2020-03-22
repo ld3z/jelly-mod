@@ -1,0 +1,16 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jellymod:jellymeathalf"
+    },
+    {
+      "item": "jellymod:jellymeathalf"
+    }
+  ],
+  "result": {
+    "item": "jellymod:jellymeat",
+    "count": 1
+  }
+}

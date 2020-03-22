@@ -1,0 +1,30 @@
+{
+  "group": "jellymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "jellymod:jelly"
+    },
+    "1": {
+      "item": "jellymod:jelly"
+    },
+    "2": {
+      "item": "jellymod:jelly"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "jellymod:pick",
+    "count": 1
+  }
+}
