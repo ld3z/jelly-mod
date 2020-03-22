@@ -1,0 +1,42 @@
+{
+  "group": "jelly_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "jelly_mod:jelly"
+    },
+    "1": {
+      "item": "minecraft:oak_slab"
+    },
+    "2": {
+      "item": "jelly_mod:jelly"
+    },
+    "3": {
+      "item": "jelly_mod:jelly"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "jelly_mod:jelly"
+    },
+    "6": {
+      "item": "jelly_mod:jelly"
+    },
+    "7": {
+      "item": "minecraft:oak_slab"
+    },
+    "8": {
+      "item": "jelly_mod:jelly"
+    }
+  },
+  "result": {
+    "item": "jelly_mod:jellycontainer",
+    "count": 1
+  }
+}

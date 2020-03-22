@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "jellymeat",
+    "customModelName": "Normal",
+    "name": "Jelly Meat",
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 8,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

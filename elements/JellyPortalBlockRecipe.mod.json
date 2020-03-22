@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:JellyPortalBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "jellyportalblockrecipe",
+    "namespace": "mod"
+  }
+}

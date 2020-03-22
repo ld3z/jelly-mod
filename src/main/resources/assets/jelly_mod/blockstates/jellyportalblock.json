@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jelly_mod:block/jellyportalblock"
+    },
+    "facing=east": {
+      "model": "jelly_mod:block/jellyportalblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jelly_mod:block/jellyportalblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jelly_mod:block/jellyportalblock",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "jelly_mod:block/jellyportalblock",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "jelly_mod:block/jellyportalblock",
+      "x": 90
+    }
+  }
+}

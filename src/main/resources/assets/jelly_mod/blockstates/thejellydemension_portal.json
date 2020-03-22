@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "jelly_mod:block/thejellydemension_portal_ew"
+    },
+    "axis=x": {
+      "model": "jelly_mod:block/thejellydemension_portal_ns"
+    }
+  }
+}

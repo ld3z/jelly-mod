@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": ""
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": "CUSTOM:MeltedJelly"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:JellyMeatQuarter"
+    },
+    "smeltingXPReward": 10.0,
+    "smeltingRetstackSize": 1,
+    "name": "quarterportionjellymeatrecipe",
+    "namespace": "mod"
+  }
+}

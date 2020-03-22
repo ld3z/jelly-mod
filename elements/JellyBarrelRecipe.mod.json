@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:JellyBarrel"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#0"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#0"
+      },
+      {
+        "value": "CUSTOM:Jelly"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "jellybarrelrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "jelly_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "jelly_mod:jelly"
+    },
+    "1": {
+      "item": "jelly_mod:jelly"
+    },
+    "2": {
+      "item": "jelly_mod:jelly"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    },
+    "6": {
+      "item": "jelly_mod:jelly"
+    },
+    "7": {
+      "item": "jelly_mod:jelly"
+    },
+    "8": {
+      "item": "jelly_mod:jelly"
+    }
+  },
+  "result": {
+    "item": "jelly_mod:jellyportalblock",
+    "count": 2
+  }
+}

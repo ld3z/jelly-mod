@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "jelly_hoe",
+    "customModelName": "Normal",
+    "name": "Jelly Hoe",
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

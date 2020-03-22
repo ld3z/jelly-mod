@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jelly_mod:blocks/jellyportalblock",
+    "particle": "jelly_mod:blocks/jellyportalblock"
+  }
+}

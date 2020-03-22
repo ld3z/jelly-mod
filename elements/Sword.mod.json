@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "jelly_sword",
+    "customModelName": "Normal",
+    "name": "Jelly Sword",
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 8.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

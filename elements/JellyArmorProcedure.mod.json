@@ -1,0 +1,7 @@
+{
+  "_fv": 5,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><variables></variables><block type=\"event_trigger\" id=\",Z]`3=0y/b=CV{mJtsFd\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">No additional trigger</field><next><block type=\"entity_add_potion\" id=\"8M`H[go{ZY36kU!},2Cr\"><field name=\"potion\">JUMP_BOOST</field><value name=\"level\"><block type=\"math_number\" id=\"J:+JIVz-D|6{Gc]kT:HE\"><field name=\"NUM\">5</field></block></value><value name=\"duration\"><block type=\"math_number\" id=\"l}b9``i,A6nz[.FVoX1=\"><field name=\"NUM\">60</field></block></value></block></next></block></xml>"
+  }
+}

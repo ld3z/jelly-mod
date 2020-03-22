@@ -1,0 +1,44 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "jellyarmor_head",
+    "enableBody": true,
+    "textureBody": "jellyarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "jellyarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "jellyarmor_boots",
+    "onBootsTick": {
+      "name": "JellyArmorProcedure"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "armorTextureFile": "jellyarmor",
+    "helmetName": "Jelly Helmet",
+    "bodyName": "Jelly Chestplate",
+    "leggingsName": "Jelly Leggings",
+    "bootsName": "Jelly Boots",
+    "helmetModelName": "Default",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": []
+  }
+}

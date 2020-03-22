@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "jelly_mod",
+    "name": "Jelly Mod",
+    "description": "",
+    "version": "5.0",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Ldezian",
+      "MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

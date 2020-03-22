@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jelly_mod:block/jellycrystalore"
+    },
+    "facing=east": {
+      "model": "jelly_mod:block/jellycrystalore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jelly_mod:block/jellycrystalore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jelly_mod:block/jellycrystalore",
+      "y": 270
+    }
+  }
+}

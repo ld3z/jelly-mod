@@ -1,0 +1,23 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "jelly_pickaxe",
+    "customModelName": "Normal",
+    "name": "Jelly Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_fv": 5,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:JellyPortalBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "The Jelly Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "texture": "jellyignite",
+    "portalTexture": "portalblocktex",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "plains"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "river"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.BRICK_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

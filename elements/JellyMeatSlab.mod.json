@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "jellymeatslab",
+    "customModelName": "Normal",
+    "name": "Slab of Jelly Meat",
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 30,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

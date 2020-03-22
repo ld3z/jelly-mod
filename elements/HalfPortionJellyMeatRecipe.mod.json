@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:JellyMeatHalf"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JellyMeatQuarter"
+      },
+      {
+        "value": "CUSTOM:JellyMeatQuarter"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JellyMeatQuarter"
+      },
+      {
+        "value": "CUSTOM:JellyMeatQuarter"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "halfportionjellymeatrecipe",
+    "namespace": "mod"
+  }
+}
