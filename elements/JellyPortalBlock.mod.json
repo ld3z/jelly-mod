@@ -2,7 +2,7 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "jellyportalblock",
+    "texture": "jellyportalbloknew",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "jellyportalblock",
@@ -45,6 +45,10 @@
     "tickRate": 10,
     "isReplaceable": false,
     "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
     "isNotColidable": false,
     "soundOnStep": {
       "value": "METAL"
@@ -68,11 +72,7 @@
     "inventoryOutSlotIDs": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [
-      {
-        "value": "Blocks.STONE"
-      }
-    ],
+    "blocksToReplace": [],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 10,
