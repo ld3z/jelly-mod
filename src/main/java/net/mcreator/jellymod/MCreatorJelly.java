@@ -12,7 +12,7 @@ public class MCreatorJelly extends Elementsjellymod.ModElement {
 	public static final Item block = null;
 
 	public MCreatorJelly(Elementsjellymod instance) {
-		super(instance, 8);
+		super(instance, 9);
 	}
 
 	@Override

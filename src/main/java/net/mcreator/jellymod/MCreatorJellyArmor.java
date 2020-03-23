@@ -28,7 +28,7 @@ public class MCreatorJellyArmor extends Elementsjellymod.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorJellyArmor(Elementsjellymod instance) {
-		super(instance, 18);
+		super(instance, 6);
 	}
 
 	@Override
@@ -68,17 +68,54 @@ public class MCreatorJellyArmor extends Elementsjellymod.ModElement {
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
 				return "jellymod:textures/models/armor/jellyarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
+
+			@Override
+			public void onArmorTick(ItemStack itemstack, World world, PlayerEntity entity) {
+				super.onArmorTick(itemstack, world, entity);
+				int x = (int) entity.posX;
+				int y = (int) entity.posY;
+				int z = (int) entity.posZ;
+				{
+					java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+					$_dependencies.put("entity", entity);
+					MCreatorJellyArmorProcedure.executeProcedure($_dependencies);
+				}
+			}
 		}.setRegistryName("jellyarmorhelmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(MCreatorModTab.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
 				return "jellymod:textures/models/armor/jellyarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
+
+			@Override
+			public void onArmorTick(ItemStack itemstack, World world, PlayerEntity entity) {
+				int x = (int) entity.posX;
+				int y = (int) entity.posY;
+				int z = (int) entity.posZ;
+				{
+					java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+					$_dependencies.put("entity", entity);
+					MCreatorJellyArmorProcedure.executeProcedure($_dependencies);
+				}
+			}
 		}.setRegistryName("jellyarmorbody"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(MCreatorModTab.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
 				return "jellymod:textures/models/armor/jellyarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+			}
+
+			@Override
+			public void onArmorTick(ItemStack itemstack, World world, PlayerEntity entity) {
+				int x = (int) entity.posX;
+				int y = (int) entity.posY;
+				int z = (int) entity.posZ;
+				{
+					java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+					$_dependencies.put("entity", entity);
+					MCreatorJellyArmorProcedure.executeProcedure($_dependencies);
+				}
 			}
 		}.setRegistryName("jellyarmorlegs"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(MCreatorModTab.tab)) {

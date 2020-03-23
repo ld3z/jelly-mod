@@ -107,7 +107,7 @@ public class MCreatorTheJellyDemension extends Elementsjellymod.ModElement {
 	private static Biome[] dimensionBiomes;
 
 	public MCreatorTheJellyDemension(Elementsjellymod instance) {
-		super(instance, 16);
+		super(instance, 17);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}

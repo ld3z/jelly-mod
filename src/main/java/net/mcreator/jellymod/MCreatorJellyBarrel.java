@@ -51,7 +51,7 @@ public class MCreatorJellyBarrel extends Elementsjellymod.ModElement {
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 
 	public MCreatorJellyBarrel(Elementsjellymod instance) {
-		super(instance, 6);
+		super(instance, 7);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

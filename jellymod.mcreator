@@ -32,7 +32,7 @@
     {
       "name": "JellyOre",
       "type": "block",
-      "sortid": 7,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -40,7 +40,7 @@
     {
       "name": "Jelly",
       "type": "item",
-      "sortid": 8,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -96,7 +96,7 @@
     {
       "name": "JellyBread",
       "type": "food",
-      "sortid": 9,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -128,7 +128,7 @@
     {
       "name": "MeltedJelly",
       "type": "item",
-      "sortid": 10,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -144,7 +144,7 @@
     {
       "name": "JellyMeatQuarter",
       "type": "food",
-      "sortid": 11,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -152,7 +152,7 @@
     {
       "name": "JellyMeatHalf",
       "type": "food",
-      "sortid": 12,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -160,7 +160,7 @@
     {
       "name": "JellyMeat",
       "type": "food",
-      "sortid": 13,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -168,7 +168,7 @@
     {
       "name": "JellyMeatSlab",
       "type": "food",
-      "sortid": 14,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -224,7 +224,7 @@
     {
       "name": "JellyArmor",
       "type": "armor",
-      "sortid": 18,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -254,7 +254,7 @@
     {
       "name": "JellyBarrel",
       "type": "block",
-      "sortid": 6,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -315,7 +315,7 @@
     {
       "name": "JellyFeather",
       "type": "item",
-      "sortid": 15,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -323,7 +323,7 @@
     {
       "name": "TheJellyDemension",
       "type": "dimension",
-      "sortid": 16,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -333,7 +333,7 @@
     {
       "name": "JellyPortalBlock",
       "type": "block",
-      "sortid": 17,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -361,6 +361,30 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "CoverMeWithJelly",
+      "type": "achievement",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ArmorProAdvance",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -386,9 +410,11 @@
       "item.jellyfeather.name": "Jelly Feather (WIP)",
       "tile.jellyportalblock.name": "Jelly Portal Block",
       "block.jellymod.jellyportalblock": "Jelly Portal Block",
+      "advancements.covermewithjelly.descr": "Wear Jelly Armor",
       "item.jellymeathalf.name": "Half Portion of Jelly Meat",
       "item.jelly_mod.jellyshovel": "Jelly Shovel",
       "item.jelly_mod.jellymeathalf": "Half Portion of Jelly Meat",
+      "advancements.covermewithjelly.title": "Cover Me With Jelly",
       "item.meltedjelly.name": "Melted Jelly",
       "block.jelly_mod.jellyportalblock": "Jelly Portal Block",
       "item.jelly_mod.jelly": "Jelly",

@@ -34,7 +34,7 @@ public class MCreatorJellyOre extends Elementsjellymod.ModElement {
 	public static final Block block = null;
 
 	public MCreatorJellyOre(Elementsjellymod instance) {
-		super(instance, 7);
+		super(instance, 8);
 	}
 
 	@Override

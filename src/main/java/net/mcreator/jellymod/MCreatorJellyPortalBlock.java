@@ -28,7 +28,7 @@ public class MCreatorJellyPortalBlock extends Elementsjellymod.ModElement {
 	public static final Block block = null;
 
 	public MCreatorJellyPortalBlock(Elementsjellymod instance) {
-		super(instance, 17);
+		super(instance, 18);
 	}
 
 	@Override

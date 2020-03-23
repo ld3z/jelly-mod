@@ -13,7 +13,7 @@ public class MCreatorJellyMeatSlab extends Elementsjellymod.ModElement {
 	public static final Item block = null;
 
 	public MCreatorJellyMeatSlab(Elementsjellymod instance) {
-		super(instance, 14);
+		super(instance, 15);
 	}
 
 	@Override
