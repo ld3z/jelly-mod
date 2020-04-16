@@ -1,7 +1,7 @@
 {
   "group": "jellymod",
   "type": "minecraft:smelting",
-  "experience": 10,
+  "experience": 0,
   "ingredient": {
     "item": "jellymod:meltedjelly"
   },

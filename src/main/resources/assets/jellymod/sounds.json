@@ -1,1 +1,11 @@
-{}
+{
+  "urwhoreloked": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jellymod:our_oor_as_ocked_inecraft_nimation",
+        "stream": true
+      }
+    ]
+  }
+}

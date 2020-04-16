@@ -1,13 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
+    "xpReward": 0.0,
     "recipeRetstackSize": 1,
     "recipeShapeless": false,
-    "recipeReturnStack": {
-      "value": "CUSTOM:JellyShovel"
-    },
     "recipeSlots": [
       {
         "value": ""
@@ -37,14 +35,15 @@
         "value": ""
       }
     ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JellyShovel"
+    },
     "smeltingInputStack": {
       "value": ""
     },
     "smeltingReturnStack": {
       "value": ""
     },
-    "smeltingXPReward": 1.0,
-    "smeltingRetstackSize": 1,
     "name": "jellyshovelrecipe",
     "namespace": "mod"
   }

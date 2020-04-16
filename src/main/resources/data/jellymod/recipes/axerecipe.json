@@ -8,7 +8,7 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:diamond"
+      "item": "jellymod:jelly"
     },
     "1": {
       "item": "jellymod:jelly"
@@ -21,7 +21,7 @@
     }
   },
   "result": {
-    "item": "jellymod:axe",
+    "item": "jellymod:jellyaxe",
     "count": 1
   }
 }

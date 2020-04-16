@@ -1,13 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
+    "xpReward": 0.0,
     "recipeRetstackSize": 1,
     "recipeShapeless": false,
-    "recipeReturnStack": {
-      "value": "CUSTOM:JellyMeatSlab"
-    },
     "recipeSlots": [
       {
         "value": ""
@@ -37,14 +35,15 @@
         "value": ""
       }
     ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JellyMeatSlab"
+    },
     "smeltingInputStack": {
       "value": ""
     },
     "smeltingReturnStack": {
       "value": ""
     },
-    "smeltingXPReward": 1.0,
-    "smeltingRetstackSize": 1,
     "name": "slabjellymeat2recipe",
     "namespace": "mod"
   }

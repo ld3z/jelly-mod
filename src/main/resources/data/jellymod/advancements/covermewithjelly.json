@@ -2,7 +2,7 @@
   "display": {
     "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "jellymod:sword"
+      "item": "jellymod:unknown_element"
     },
     "title": {
       "translate": "advancements.covermewithjelly.title"

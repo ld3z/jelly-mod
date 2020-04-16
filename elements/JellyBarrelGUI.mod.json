@@ -1,12 +1,11 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "gui",
   "definition": {
     "type": 1,
     "width": 500,
     "height": 359,
     "renderBgLayer": true,
-    "containerBlock": "JellyBarrel",
     "components": [
       {
         "type": "inputslot",
@@ -14,7 +13,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 0,
           "name": "Slot #0",
           "x": 210,
@@ -27,7 +25,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 1,
           "name": "Slot #1",
           "x": 246,
@@ -40,7 +37,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 2,
           "name": "Slot #2",
           "x": 282,
@@ -53,7 +49,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 3,
           "name": "Slot #3",
           "x": 318,
@@ -66,7 +61,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 4,
           "name": "Slot #4",
           "x": 354,
@@ -79,7 +73,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 5,
           "name": "Slot #5",
           "x": 390,
@@ -92,7 +85,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 6,
           "name": "Slot #6",
           "x": 426,
@@ -105,7 +97,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 7,
           "name": "Slot #7",
           "x": 462,
@@ -118,7 +109,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 8,
           "name": "Slot #8",
           "x": 498,
@@ -131,7 +121,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 9,
           "name": "Slot #9",
           "x": 534,
@@ -144,7 +133,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 10,
           "name": "Slot #10",
           "x": 570,
@@ -157,7 +145,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 11,
           "name": "Slot #11",
           "x": 606,
@@ -170,7 +157,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 12,
           "name": "Slot #12",
           "x": 210,
@@ -183,7 +169,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 13,
           "name": "Slot #13",
           "x": 246,
@@ -196,7 +181,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 14,
           "name": "Slot #14",
           "x": 282,
@@ -209,7 +193,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 15,
           "name": "Slot #15",
           "x": 318,
@@ -222,7 +205,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 16,
           "name": "Slot #16",
           "x": 354,
@@ -235,7 +217,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 17,
           "name": "Slot #17",
           "x": 390,
@@ -248,7 +229,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 18,
           "name": "Slot #18",
           "x": 426,
@@ -261,7 +241,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 19,
           "name": "Slot #19",
           "x": 462,
@@ -274,7 +253,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 20,
           "name": "Slot #20",
           "x": 498,
@@ -287,7 +265,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 21,
           "name": "Slot #21",
           "x": 534,
@@ -300,7 +277,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 22,
           "name": "Slot #22",
           "x": 570,
@@ -313,7 +289,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 23,
           "name": "Slot #23",
           "x": 606,
@@ -326,7 +301,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 24,
           "name": "Slot #24",
           "x": 372,
@@ -339,7 +313,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 25,
           "name": "Slot #25",
           "x": 408,
@@ -352,7 +325,6 @@
           "inputLimit": {
             "value": ""
           },
-          "inventory": "inherited",
           "id": 26,
           "name": "Slot #26",
           "x": 444,
@@ -372,7 +344,6 @@
           "y": 78
         }
       }
-    ],
-    "inventories": []
+    ]
   }
 }

@@ -7,7 +7,7 @@ version="5.0"
 displayName="Jelly Mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Ldezian, MCreator"
+authors="Ldezian"
 
 [[dependencies.jellymod]]
     modId="minecraft"

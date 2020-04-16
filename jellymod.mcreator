@@ -1,22 +1,14 @@
 {
   "id_map": {
-    "ENTITY": 2,
     "DIMENSION": 1,
-    "GUI": 3
+    "GUI": 3,
+    "ENTITY": 2
   },
   "mod_elements": [
     {
-      "name": "Sword",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Pick",
       "type": "tool",
-      "sortid": 2,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -57,14 +49,6 @@
       "name": "PickRecipe",
       "type": "recipe",
       "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Axe",
-      "type": "tool",
-      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -385,10 +369,32 @@
           }
         ]
       }
+    },
+    {
+      "name": "JellySword",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JellyAxe",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "urwhoreloked",
+      "file": "our_oor_as_ocked_inecraft_nimation",
+      "category": "record"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.bandage.name": "Bandage",
@@ -403,9 +409,9 @@
       "item.jellyarmorlegs.name": "Jelly Leggings",
       "item.jellymod.jellyarmorbody": "Jelly Chestplate",
       "advancements.uminedjellyore.descr": "Mine Jelly Ore",
-      "item.jellymod.axe": "Jelly Axe",
       "block.jelly_mod.jellycontainer": "Jelly Container",
       "advancements.uminedjellyore.title": "You Mined Jelly Ore",
+      "item.jellymod.jellyaxe": "Jelly Axe",
       "item.jellymeatslab.name": "Slab of Jelly Meat",
       "item.jellyfeather.name": "Jelly Feather (WIP)",
       "tile.jellyportalblock.name": "Jelly Portal Block",
@@ -425,6 +431,7 @@
       "tile.jellyore.name": "Jelly Ore",
       "item.jelly_mod.jellyarmorlegs": "Jelly Leggings",
       "item.jelly_mod.jellyarmorbody": "Jelly Chestplate",
+      "item.jellymod.jellysword": "Jelly Sword",
       "item.jellymod.jellymeat": "Jelly Meat",
       "itemGroup.tabtest": "Test",
       "block.jelly_mod.jellycrystalore": "Jelly Crystal Ore",
@@ -454,7 +461,6 @@
       "itemGroup.tabmodtab": "Jelly Mod",
       "item.jellymod.jellymeatslab": "Slab of Jelly Meat",
       "tile.jellyplant.name": "Jelly Plant",
-      "item.jellymod.sword": "Jelly Sword",
       "item.knife.name": "Item",
       "tile.block.name": "Bread",
       "item.jellyarmorboots.name": "Jelly Boots",
@@ -475,7 +481,6 @@
     "modName": "Jelly Mod",
     "version": "5.0",
     "author": "Ldezian",
-    "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -483,8 +488,8 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.14.4",
-    "usesProFeatures": false,
+    "modElementsPackage": "ldez.jellymod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000105419
+  "mcreatorVersion": 202000214217
 }

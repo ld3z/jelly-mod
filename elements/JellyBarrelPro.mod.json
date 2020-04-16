@@ -1,5 +1,5 @@
 {
-  "_fv": 5,
+  "_fv": 6,
   "_type": "procedure",
   "definition": {
     "procedurexml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">No additional trigger</field><next><block type=\"entity_open_gui\"><field name=\"guiname\">JellyBarrelGUI</field></block></next></block></xml>"
