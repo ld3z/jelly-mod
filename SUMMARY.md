@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Home](README.md)
+* [The Jelly Mod](README.md)
+* [Untitled](untitled.md)
 

@@ -1,4 +1,4 @@
-# Home
+# The Jelly Mod
 
 A Minecraft Mod Found on CurseForge, made with MCreator
 
