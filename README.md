@@ -1,5 +1,6 @@
-# The Jelly Mod
-A Minecraft Mod
-Found on CurseForge, made with MCreator
+# Home
 
-https://www.curseforge.com/minecraft/mc-mods/jelly-mod
+A Minecraft Mod Found on CurseForge, made with MCreator
+
+[https://www.curseforge.com/minecraft/mc-mods/jelly-mod](https://www.curseforge.com/minecraft/mc-mods/jelly-mod)
+
